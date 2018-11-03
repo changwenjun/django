@@ -1,0 +1,5 @@
+1.django项目
+	1>//admin创建管理员账号密码
+	https://blog.csdn.net/wengyupeng/article/details/52266635
+	2>admin设置成中文
+	LANGUAGE_CODE = 'zh-Hans' 
